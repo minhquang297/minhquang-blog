@@ -1,7 +1,7 @@
 backend:
-  name: github
+  name: minhquang297
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: minhquang297/minhquang-blog
 
 media_folder: static/assets
 public_folder: /assets
