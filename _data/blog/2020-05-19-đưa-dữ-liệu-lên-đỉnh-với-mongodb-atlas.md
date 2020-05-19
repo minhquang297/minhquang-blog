@@ -22,9 +22,17 @@ Bạn có thể tạo tài khoản bằng tài khoản Google hoặc địa ch�
 https://account.mongodb.com/account/login
 ```
 
+
+
 Bạn hãy yên tâm là với gói miễn phí bạn đã có thể vọc vạch đủ thứ hay ho rồi
 
+
+
 ![](/assets/dbatlas1.png)
+
+
+
+
 
 ![](/assets/dbatlas2.png)
 
