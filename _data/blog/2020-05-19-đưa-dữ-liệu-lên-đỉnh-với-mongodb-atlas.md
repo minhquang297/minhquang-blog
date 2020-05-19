@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /database/mongo/MongoDB-Atlas
-date: 2020-05-19T13:26:43.715Z
+date: 2020-05-19T13:38:53.222Z
 title: Đưa dữ liệu lên đỉnh với MongoDB Atlas
 metaDescription: "Với những tín đồ của NoSQL thì MongoDB là một sự lựa chọn tuyệt vời, và trong thời đại mà ai ai cũng đòi đi đua đưa thì chẳng lý do gì mà chúng ta không thử get high đưa dữ liệu lên đỉnh \U0001F917\n"
 thumbnail: /assets/dbatlas1.png
