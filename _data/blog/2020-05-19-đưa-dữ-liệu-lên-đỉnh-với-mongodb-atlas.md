@@ -8,11 +8,11 @@ thumbnail: /assets/dbatlas1.png
 ---
 # Tổng quan về MongoDB Atlas (MongoDB Atlas Overview)
 
-MongoDB Atlas cung cấp một cách dễ dàng để lưu trữ và quản lý dữ liệu của bạn trên đám mây.  Hướng dẫn này giúp bạn tạo 1 Atlas cluster, kết nối với nó, chèn dữ liệu và truy vấn dữ liệu.
-
 MongoDB Atlas là cloud database của MongoDB được ra mắt vào năm 2016 chạy trên AWS, Microsoft Azure và Google Cloud Platform.
 
 Dữ liệu trong mỗi Cluster ở Atlas được lưu trữ theo cơ chế Replication, với 3 nodes: 1 master (primary) và 2 slaves (secondary)
+
+MongoDB Atlas cung cấp một cách dễ dàng để lưu trữ và quản lý dữ liệu của bạn trên đám mây.  Hướng dẫn này giúp bạn tạo 1 Atlas cluster, kết nối với nó, chèn dữ liệu và truy vấn dữ liệu.
 
 ## Bước 1: Tạo một tài khoản Atlas (Create an Atlas Account )
 
@@ -22,7 +22,11 @@ Bạn có thể tạo tài khoản bằng tài khoản Google hoặc địa ch�
 https://account.mongodb.com/account/login
 ```
 
+Bạn hãy yên tâm là với gói miễn phí bạn đã có thể vọc vạch đủ thứ hay ho rồi
 
+![](/assets/dbatlas1.png)
+
+![](/assets/dbatlas2.png)
 
 ## Bước 2: Tạo 1 cluster miễn phí (Deploy a Free Tier Cluster )
 
