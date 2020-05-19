@@ -26,3 +26,6 @@ export default () => (
     )}
   />
 )
+
+
+{/* <Link to='/contact' className="button -primary">Get in touch &rarr;</Link> */}
