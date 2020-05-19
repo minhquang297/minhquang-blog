@@ -1,5 +1,5 @@
 backend:
-  name: minhquang297
+  name: github
   # change repo to your git repository url
   repo: minhquang297/minhquang-blog
 
