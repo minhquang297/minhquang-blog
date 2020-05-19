@@ -61,8 +61,6 @@ Nếu không quen với vị đắng, bạn có thể cho thêm đường. Nhưn
 
 Hiện nay trên thị trường cafe có các loại cafe hòa tan, cà phê phin có vị của Espresso như **Đất Sài Gòn, Hemera coffee**,...
 
-
-
 ### 2.2 Cappuccino (capuchino)
 
 Dạo gần cà phê Cappuccino không còn quá xa lạ đối với những người thường xuyên uống cafe. Một tách cà phê này gồm có 3 phần là: cà phê espresso, sữa nóng và bọt sữa và thường được chia rất đều nhau.
@@ -101,8 +99,6 @@ Nói một cách dễ hiểu thì Americano chính là Espresso nhưng được 
 
 ![ca-phe-americano-PV-fine](https://posapp.vn/wp-content/uploads/2019/07/ca-phe-americano-PV-fine-min-3.jpg)
 
-***Tham khảo thêm:["7 Cách thu hút khách đến quán cafe"](https://posapp.vn/cach-thu-hut-khach-den-quan-cafe/)***
-
 ## 3. Các chuỗi quán cafe nổi tiếng ở VN
 
 Hiện nay thị trường kinh doanh quán cà phê dần trở nên rất sôi động tại Việt Nam. Ngày càng có nhiều chuỗi quán cà phê mọc lên trên khắp đất nước. Trong đó cũng đã có những thương hiệu vươn xa ngoài khu vực, có thương hiệu điển hình cho sự thành công của chuỗi cafe tại Việt Nam phải kể đến như:**Trung Nguyên Coffee, Highlands, The Coffee House, Cộng Cà phê, Starbucks**
@@ -136,8 +132,6 @@ Cộng cà phê bắt đầu từ năm 2007 như một quán nước giải khá
 Đây là thương hiệu quán cafe đến từ**Mỹ**, gia nhập vào năm 2013 nay chuỗi cà phê này đã có 34 cửa hàng. Định vị là quán cafe cao cấp tập trung vào khách hàng ngoại quốc và nhân viên văn phòng với giá thành dao động từ**40-100 nghìn đồng**mỗi ly.
 
 ![starbucks-cafe](https://posapp.vn/wp-content/uploads/2019/07/starbucks-cafe-min.jpg)
-
-
 
 ## 4. Cách trộn cafe
 
@@ -193,7 +187,7 @@ Trong thời gian gần đây, cà phê dần được biến thành một thứ
 
 – 10% Ca cao
 
-***Tham khảo thêm: "[Menu thức uống gây bão khách cho quán cà phê](https://posapp.vn/menu-thuc-don-nuoc-uong-cho-quan-cafe/)"***
+
 
 ## 5. Những lưu ý để pha chế một ly cà phê ngon
 
